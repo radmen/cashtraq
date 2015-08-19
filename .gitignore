@@ -1,4 +1,16 @@
+### Laravel ###
 /bootstrap/compiled.php
 .env.*.php
 .env.php
 .env
+
+### Composer ###
+/vendor/
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
