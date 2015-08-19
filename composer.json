@@ -1,0 +1,15 @@
+{
+    "name": "radmen/cashtraq",
+    "description": "Daily cash tracker",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radoslaw Mejer",
+            "email": "radmen@radmen.info"
+        }
+    ],
+    "require": {}
+}
