@@ -2,7 +2,8 @@
     "name": "radmen/cashtraq",
     "description": "Daily cash tracker",
     "require-dev": {
-        "phpunit/phpunit": "^4.8"
+        "phpunit/phpunit": "^4.8",
+        "squizlabs/php_codesniffer": "^2.3"
     },
     "license": "MIT",
     "autoload": {
