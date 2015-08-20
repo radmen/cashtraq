@@ -5,11 +5,18 @@
         "phpunit/phpunit": "^4.8"
     },
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ctraq\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Radoslaw Mejer",
             "email": "radmen@radmen.info"
         }
     ],
-    "require": {}
+    "require": {
+        "mathiasverraes/money": "^1.2"
+    }
 }
